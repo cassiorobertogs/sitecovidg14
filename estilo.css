@@ -10,6 +10,10 @@ body {
     
 }
 
+#frame {
+    text-align: center;
+}
+
 h1 h2 {
     margin: center;
 }
@@ -29,7 +33,8 @@ h1 h2 {
 
 
 #navebar ul li a {
-    color: #c0e3c2;
+    color: #8baa8d;
+  
     padding: 20px;
     display: inline-block;
     text-decoration: none;
@@ -51,7 +56,7 @@ h1 h2 {
 }
 
 #navebar2 ul li a {
-    color: #c0e3c2;
+    color: #8baa8d;
     padding: 20px;
     display: inline-block;
     text-decoration: none;
@@ -59,18 +64,19 @@ h1 h2 {
 }
 
 #navebar2 ul li a:hover {
-    background-color: #c0e3c2;
+    background-color: #8baa8d;
     color: white;
 }
 
 #navebar2 ul li:last-child a {
     float: right;
-    background-color: #cbe4cc;
+    background-color: #8baa8d;
     color: white;
 }
 
 #navebar2 ul li:last-child a:hover {
     float: right;
     background-color: white;
-    color: #cbe4cc;
+    color: #8baa8d;
+    ;
 }
